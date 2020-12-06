@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597002899029",
+    "project_id": "videoplayer-3267f",
+    "storage_bucket": "videoplayer-3267f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597002899029:android:83bb80fe87c1e2c8380edc",
+        "android_client_info": {
+          "package_name": "com.priyanshu.video_player_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597002899029-2fqvb7qk8bqrv72uqlrnbj0heij0uio2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz4NgnFgiMOnWpagYoRJoG5cj6apxiv_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597002899029-2fqvb7qk8bqrv72uqlrnbj0heij0uio2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
